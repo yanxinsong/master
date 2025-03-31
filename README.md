@@ -63,8 +63,6 @@ python trainer.py
 python main.py
 
 ### 五、附录：代码目录结构
-
-.
 ├── datasets/
 │   ├── train.jsonl
 │   └── raw/
